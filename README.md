@@ -41,8 +41,7 @@ draft is an AI-powered web application that lets users generate, play, and share
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/craft-ai-game-generator.git
-cd craft-ai-game-generator
+git clone
 ```
 
 ### 2. Install Dependencies
